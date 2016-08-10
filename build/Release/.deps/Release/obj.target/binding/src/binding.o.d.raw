@@ -1,0 +1,9 @@
+Release/obj.target/binding/src/binding.o: ../src/binding.cc \
+  /usr/local/Cellar/postgresql/9.4.1/include/libpq-fe.h \
+  /usr/local/Cellar/postgresql/9.4.1/include/postgres_ext.h \
+  /usr/local/Cellar/postgresql/9.4.1/include/pg_config_ext.h \
+  /Users/libo/.node-gyp/6.3.0/include/node/node.h \
+  /Users/libo/.node-gyp/6.3.0/include/node/v8.h \
+  /Users/libo/.node-gyp/6.3.0/include/node/v8-version.h \
+  /Users/libo/.node-gyp/6.3.0/include/node/v8config.h \
+  /Users/libo/.node-gyp/6.3.0/include/node/node_version.h
